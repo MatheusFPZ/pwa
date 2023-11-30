@@ -11,7 +11,7 @@
   "id": "1",
   "orientation": "portrait",
   "dir": "auto",
-  "scope": "https://jaisson.github.io/oficina/",
+  "scope": "https://matheusfpz.github.io/pwa/",
   "display_override": [
     "standalone",
     "fullscreen",
